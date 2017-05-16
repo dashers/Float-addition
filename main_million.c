@@ -1,3 +1,6 @@
+// This function will run with random inputs of 1 million numbers to test the Float addition program.
+// Debajyoti Dash
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
